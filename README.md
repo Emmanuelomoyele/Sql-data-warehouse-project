@@ -1,10 +1,10 @@
-Data Warehouse and Analytics Project
+**Data Warehouse and Analytics Project**
 This project showcases a complete data warehousing and analytics solution — from constructing a data warehouse to delivering actionable insights. Created as a portfolio project, it reflects industry best practices in data engineering and analytics.
 
-Project Requirements
+**Project Requirements**
 Building the Data Warehouse (Data Engineering)
 
-Goal
+**Goal**
 Create a modern data warehouse using SQL Server to centralize sales data, enabling analytical reporting and data-driven decision-making.
 
 Requirements
