@@ -35,14 +35,16 @@ Scope: Work only with the most recent dataset; historical data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-About Me
-Hi there! I'm Emmanuel Omoyele, A Business Data Analyst.
+
+**
+About Me**
+ I'm Emmanuel Omoyele, A Business Data Analyst.
 
 
 
-BI: Analytics & Reporting (Data Analytics)
+**BI: Analytics & Reporting (Data Analytics)**
 
-Goal
+**Goal**
 Build SQL-driven analytics to provide deep insights into:
 
 Customer Behavior
